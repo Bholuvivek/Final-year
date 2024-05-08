@@ -1,0 +1,25 @@
+.form{
+    background-color: #FFF;
+    margin-bottom: -50px;
+
+   display: flex;
+   justify-content: center;
+
+}
+.borde{
+    margin: 30px;
+    background-color:rgb(53, 194, 194);
+    width: max-content;
+    border-radius: 20px;
+    box-shadow: 30px;
+}   
+.btn1{
+    background-color: green;
+    color: black;
+}
+.reg{
+    color: rgb(5, 5, 5);
+}
+.regt{
+    color: rgb(6, 91, 228);
+}
