@@ -1,0 +1,21 @@
+alembic==1.13.2
+click==8.1.3
+Flask==2.2.2
+Flask-Cors==3.0.13
+flask-marshmallow==0.18.1
+Flask-Migrate==4.0.2
+Flask-SQLAlchemy==3.0.2
+greenlet==1.1.2
+gunicorn==20.1.0
+itsdangerous==2.3.3
+Jinja2==3.1.2
+Mako==1.2.3
+MarkupSafe==2.1.1
+marshmallow==3.16.1
+marshmallow-sqlalchemy==0.29.1
+mysqlclient==2.1.0
+python-dateutil==2.8.2
+# python-editor (consider alternatives or provide more context)
+six==1.16.0
+SQLAlchemy==1.4.42
+Werkzeug==2.2.2
