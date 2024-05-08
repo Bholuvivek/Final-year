@@ -21,7 +21,7 @@ const Classes = () => {
                 <img className="card-img-top mb-2" src={class1} alt="" />
                 <div className="card-body text-center">
                   <h4 className="card-title">Drawing Class</h4>
-                  <p className="card-text">Justo ea diam stet diam ipsum no sit, ipsum vero et et diam ipsum duo et no et, ipsum ipsum erat duo amet clita duo</p>
+                  <p className="card-text"></p>
                 </div>
                 <div className="card-footer bg-transparent py-4 px-5">
                   <div className="row border-bottom">
